@@ -36,7 +36,7 @@
         <PackageName Value="BrookRT"/>
       </Item1>
     </RequiredPackages>
-    <Units Count="3">
+    <Units Count="4">
       <Unit0>
         <Filename Value="cgi1.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -50,8 +50,8 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="8"/>
-        <CursorPos X="143" Y="20"/>
+        <TopLine Value="11"/>
+        <CursorPos X="30" Y="21"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit1>
@@ -66,8 +66,16 @@
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit2>
+      <Unit3>
+        <Filename Value="D:\ComponentesLazarusDelphi\brookframework\brookframework\core\brookaction.pas"/>
+        <UnitName Value="BrookAction"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="569"/>
+        <CursorPos X="14" Y="43"/>
+        <UsageCount Value="10"/>
+      </Unit3>
     </Units>
-    <JumpHistory Count="2" HistoryIndex="1">
+    <JumpHistory Count="3" HistoryIndex="2">
       <Position1>
         <Filename Value="unit1.pas"/>
         <Caret Line="22" Column="85" TopLine="5"/>
@@ -76,6 +84,10 @@
         <Filename Value="unit1.pas"/>
         <Caret Line="20" Column="37" TopLine="1"/>
       </Position2>
+      <Position3>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="21" Column="30" TopLine="11"/>
+      </Position3>
     </JumpHistory>
   </ProjectOptions>
   <CompilerOptions>
