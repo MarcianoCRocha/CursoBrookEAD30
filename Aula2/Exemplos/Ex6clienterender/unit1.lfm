@@ -1,0 +1,57 @@
+object Form1: TForm1
+  Left = -12
+  Height = 240
+  Top = 121
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '1.2.2.0'
+  object edID: TEdit
+    Left = 64
+    Height = 23
+    Top = 25
+    Width = 79
+    TabOrder = 0
+    Text = 'edID'
+  end
+  object lbID: TLabel
+    Left = 41
+    Height = 17
+    Top = 31
+    Width = 16
+    Caption = 'Id:'
+    Font.Height = -13
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object edNome: TEdit
+    Left = 65
+    Height = 23
+    Top = 57
+    Width = 175
+    TabOrder = 1
+    Text = 'edNome'
+  end
+  object lbNome: TLabel
+    Left = 40
+    Height = 17
+    Top = 57
+    Width = 16
+    Caption = 'Id:'
+    Font.Height = -13
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object btObter: TButton
+    Left = 63
+    Height = 23
+    Top = 107
+    Width = 169
+    Caption = 'Obter dados'
+    OnClick = btObterClick
+    TabOrder = 2
+  end
+end
