@@ -1,0 +1,12 @@
+Acessar prompt para instalar serviço do servidor embutido
+
+Acessar perfil usuario
+
+cd %userprofile%
+
+
+ir até a pasta do projeto e instalar como serviço no windows
+
+usar nome do projeto e usar -i para instalar como serviço
+
+para desinstalar usar -u
