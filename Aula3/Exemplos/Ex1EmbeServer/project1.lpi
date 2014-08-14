@@ -49,7 +49,7 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="1"/>
+        <TopLine Value="4"/>
         <CursorPos X="58" Y="8"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -90,6 +90,12 @@
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
     </SearchPaths>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+    </Linking>
     <Other>
       <CompilerMessages>
         <MsgFileName Value=""/>

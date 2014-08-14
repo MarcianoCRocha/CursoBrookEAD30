@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1150455029"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -vewnhi -FuD:\ComponentesLazarusDelphi\brookframework\brookframework\packages\lib\i386-win32 &quot;-FuD:\Projeto Lazarus\AulaBrook\CursoBrookEAD30\Aula3\Exemplos\Ex2EmbeDaeServer\&quot; -l project1.lpr"/>
-</CONFIG>
