@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <Compiler Value="C:\lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1150455029"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi -FuD:\ComponentesLazarusDelphi\brookframework\brookframework\packages\lib\i386-win32 &quot;-FuD:\Projeto Lazarus\AulaBrook\CursoBrookEAD30\Aula2\Exercicio\Exer2renderImage\Met1\&quot; -l -FEC:\Apache\htdocs\cgi-bin\ -ocgi1.bf cgi1.lpr"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi -FuD:\ComponentesLazarusDelphi\brookframework\brookframework\packages\lib\i386-win32 &quot;-FuD:\Projeto Lazarus\AulaBrook\CursoBrookEAD30\Aula2\Exercicio\Exer2renderImage\Met1\&quot; -l -FEC:\WebServ\htdocs\cgi-bin\ -ocgi1.bf cgi1.lpr"/>
 </CONFIG>

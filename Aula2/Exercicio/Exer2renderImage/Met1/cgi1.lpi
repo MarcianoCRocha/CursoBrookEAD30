@@ -94,7 +94,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="C:\Apache\htdocs\cgi-bin\cgi1.bf" ApplyConventions="False"/>
+      <Filename Value="C:\WebServ\htdocs\cgi-bin\cgi1.bf" ApplyConventions="False"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
